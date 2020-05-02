@@ -5,7 +5,7 @@ Active prototype and computational experiment already available in Colab. [![Col
 All experiments, mentioned in paper are located in [this](https://github.com/MakhmoodSodikov/symbolic_regression/blob/master/WANN_modif.py) Notebook.
 
 WANNs core modification with NEAT-algo is available [here](https://github.com/MakhmoodSodikov/symbolic_regression/blob/master/WANN_modif.py
-).
+) (_TODO_).
 
 Presentation of our research can be seen [here](https://github.com/MakhmoodSodikov/symbolic_regression/blob/master/WANN_presentation.pdf).
 
